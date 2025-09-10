@@ -1,6 +1,10 @@
-# ¡Hola, soy Ahmed Medina! 👋
+ ## ¡Hola, soy Ahmed Medina! 👋
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ahmed_Medina-0077B5)](https://www.linkedin.com/in/ahmed-medina108/)
+
+Mi trayectoria es una mezcla de ingeniería y desarrollo, donde he creado soluciones que van desde sistemas de control automatizados con microcontroladores y módulos inalambricos, hasta frameworks de pruebas robustos en Python, Selenium y Pytest. Mi filosofía es que la disciplina, la atención a los detalles y una mentalidad autodidacta son la clave para resolver problemas complejos.
+
+Cuando no estoy escribiendo código o diseñando pruebas, probablemente estoy compartiendo conocimientos como instructor de yoga, una práctica que ha fortalecido mis habilidades de comunicación y mi capacidad para liderar y organizar.
 
 ## 🧪 QA Engineer & Automation Specialist
 
@@ -21,8 +25,17 @@ Ingeniero de QA bilingüe con experiencia en pruebas manuales y automatizadas, y
 [![Python](https://img.shields.io/badge/Python-3.10+-3776AB)](https://www.python.org/)
 [![SQL](https://img.shields.io/badge/SQL-Database_Queries-4479A1)](https://en.wikipedia.org/wiki/SQL)
 [![C++](https://img.shields.io/badge/C++-Embedded_Systems-00599C)](https://isocpp.org/)
-[![Matlab](https://img.shields.io/badge/Matlab-Scientific_Computing-0076A8)](https://www.mathworks.com/products/matlab.html)
+[![Matlab](https://img.shields.iobabel/Matlab-Scientific_Computing-0076A8)](https://www.mathworks.com/products/matlab.html)
 [![LabView](https://img.shields.io/badge/LabView-Automation-FFDB33)](https://www.ni.com/es-mx/shop/labview.html)
+
+### 🔌 Embedded Systems & IoT
+[![Arduino](https://img.shields.io/badge/Arduino-00979D)](https://www.arduino.cc/)
+[![PIC Microcontrollers](https://img.shields.io/badge/PIC-Microcontrollers-00979D)](https://www.microchip.com/)
+[![Xilinx FPGA](https://img.shields.io/badge/Xilinx-FPGA/SoC-E01F27)](https://www.xilinx.com/)
+[![Zigbee](https://img.shields.io/badge/Zigbee-IoT_Networking-FF9900)](https://zigbee.org/)
+[![XBee](https://img.shields.io/badge/XBee-Wireless_Modules-0080A8)](https://www.digi.com/xbee)
+[![Embedded C](https://img.shields.io/badge/Embedded_C-A8B9CC)](https://en.wikipedia.org/wiki/Embedded_C)
+[![VHDL](https://img.shields.io/badge/VHDL-Hardware_Design-2C5E9B)](https://en.wikipedia.org/wiki/VHDL)
 
 ### 🛠️ Herramientas de Desarrollo
 [![Git](https://img.shields.io/badge/Git-Version_Control-F05032)](https://git-scm.com/)
@@ -35,7 +48,7 @@ Ingeniero de QA bilingüe con experiencia en pruebas manuales y automatizadas, y
 
 ## 📊 Estadísticas de GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AhmedMdna&show_icons=true&theme=radical)
+![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=AhmedMdna&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedMdna&layout=compact&theme=radical)
 
@@ -54,13 +67,20 @@ Framework de automatización para la aplicación web Urban Routes construido con
 Sistema diseñado e implementado para la Universidad Autónoma de Yucatán utilizando módulos Xbee, Chipkit y LabView.
 
 [![LabView](https://img.shields.io/badge/LabView-Automation-FFDB33)](https://www.ni.com/es-mx/shop/labview.html)
+[![XBee](https://img.shields.io/badge/XBee-Wireless_Modules-0080A8)](https://www.digi.com/xbee)
 [![C++](https://img.shields.io/badge/C++-Embedded_Systems-00599C)](https://isocpp.org/)
 
 ### ⚙️ Sistema de Dosificación Inteligente
 Sistema de control para dosificación de materias primas integrado en línea de producción para investigación de nanomateriales.
 
-[![Microcontroller](https://img.shields.io/badge/PIC-Microcontroller-00979D)](https://www.microchip.com/)
-[![Electronics](https://img.shields.io/badge/Electronics-Hardware_Development-8A2BE2)]()
+[![PIC Microcontrollers](https://img.shields.io/badge/PIC-Microcontrollers-00979D)](https://www.microchip.com/)
+[![Embedded C](https://img.shields.io/badge/Embedded_C-A8B9CC)](https://en.wikipedia.org/wiki/Embedded_C)
+
+### 📡 Proyectos IoT con Zigbee
+Desarrollo de sistemas de comunicación inalámbrica para aplicaciones de automatización industrial.
+
+[![Zigbee](https://img.shields.io/badge/Zigbee-IoT_Networking-FF9900)](https://zigbee.org/)
+[![Arduino](https://img.shields.io/badge/Arduino-00979D)](https://www.arduino.cc/)
 
 ---
 
@@ -78,6 +98,7 @@ Sistema de control para dosificación de materias primas integrado en línea de 
 
 - Optimización de línea de producción de probetas de tracción
 - Desarrollo de sistema de control para dosificación inteligente
+- Implementación de sistemas con microcontroladores PIC y comunicación XBee
 - Reconocido con oferta de beca por autonomía y responsabilidad
 
 ### 🧘 Simha Yoga - Instructor de Yoga
