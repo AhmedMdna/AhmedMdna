@@ -1,9 +1,6 @@
 # ¡Hola, soy Ahmed Medina! 👋
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ahmed_Medina-0077B5)](https://www.linkedin.com/in/ahmed-medina108/)
-[![Email](https://img.shields.io/badge/Email-ahmed__fxx@hotmail.com-D14836)](mailto:ahmed_fxx@hotmail.com)
-[![Location](https://img.shields.io/badge/Yucatán-México-6DA55F)](https://www.google.com/maps/place/Yucatán)
-[![Phone](https://img.shields.io/badge/Phone-+529991749661-6B46C1)](tel:+529991749661)
 
 ## 🧪 QA Engineer & Automation Specialist
 
@@ -111,7 +108,6 @@ Sistema de control para dosificación de materias primas integrado en línea de 
 ## 📫 ¡Conectemos!
 
 [![LinkedIn](https://img.shields.io/badge/Conectemos_en_LinkedIn-0A66C2)](https://www.linkedin.com/in/ahmed-medina108/)
-[![Email](https://img.shields.io/badge/Envíame_un_correo-D14836)](mailto:ahmed_fxx@hotmail.com)
 [![GitHub](https://img.shields.io/badge/Visita_mis_proyectos-181717)](https://github.com/AhmedMdna)
 
 ---
