@@ -124,7 +124,7 @@ A control system for raw material dosing integrated into a production line for n
 ## 📫 Let's Connect!
 
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2)](https://www.linkedin.com/in/ahmed-medina108/)
-[![GitHub](https://img.shields.io/badge/View_my_projects-181717)](https://github.com/AhmedMdna)
+[![GitHub](https://img.shields.io/badge/View_my_projects-181717)](https://github.com/AhmedMdna?tab=repositories)
 
 ---
 
